@@ -1,12 +1,15 @@
 Projeto de conclusão de modulo, concluindo o modulo bootstrap.
 
-Link do site: 
+Link do site: https://djou-d.github.io/Futuro_Front-End-Projeto-/
 
-Equipe:
+
+Muito obrigado equipe vocês foram fantasticos!
+
+Equipe: 
 
 André
 
-Dionatam(Djou)(EU)
+Dionatam (Djou) (EU)
 
 João
 
