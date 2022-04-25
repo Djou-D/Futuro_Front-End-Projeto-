@@ -1,6 +1,6 @@
 Projeto de conclusão de modulo, concluindo o modulo bootstrap.
 
-Link do site: https://djou-d.github.io/Futuro_Front-End-Projeto-/
+Link do site: https://djou-d.github.io/Projeto-SegundoModulo-BCW7/
 
 
 Muito obrigado equipe vocês foram fantasticos!
